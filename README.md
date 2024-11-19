@@ -1,6 +1,6 @@
 #  Mean and variance of a discrete  distribution
-### Name: Anu Varshini M B
-### Register Number: 212223240010
+### Name: REVATHI K
+### Register Number: 212223040169
 
 # Aim : 
 
